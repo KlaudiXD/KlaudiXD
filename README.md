@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KlaudiXD
+- 👋 Hi, I’m Klaudia (@KlaudiXD)
 - 👀 I’m interested in: mostly sleeping (just kidding ;P ), but seriously I love crime stories (books and films) and 
 mountain hiking
 - 🌱 I’m currently learning Java and JavaScript
